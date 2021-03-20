@@ -1,0 +1,41 @@
+body {background-color: #FFB6C1;
+   background-size: cover;}
+
+   .boton{ position: absolute;
+	    width:100px;
+      height:60px;
+      left: 55px;
+     background-image: url(fondo.jpg);
+      top:550px;
+       text-align: center;
+       text-decoration: none;
+}
+.boton:hover {
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.btn-group .button {
+  position: relative;
+  background-image: url(fondo.jpg);
+  border: none;
+  top:150px;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  float: left;
+  border: 1px solid black;
+   left: 100px;
+}
+
+.btn-group .button:hover {
+  background-color: #3e8e41;
+}
+
+
+h1 {
+  text-shadow: 2px 2px 5px #F0FFFF;
+}
